@@ -1,0 +1,16 @@
+*{
+	margin:0;
+	padding:0;
+}
+/*将航标签转化为内联标签*/
+a,input,img,span,strong,ul,li{
+	display: inline-block;
+	color: #000;
+}
+a{
+	color: #757575;
+	text-decoration: none;
+}
+div{
+	display: block;
+}
